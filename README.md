@@ -23,6 +23,12 @@ React Native apps may target iOS 11.0 and Android 5.0 (API 21) or newer. You may
 
 ## 🎉 Running the app
 
+Firstly, we'll need to install all dependencies for the project:
+
+```cmd
+yarn install
+```
+
 To start up the app execute following command:
 
 ```cmd
