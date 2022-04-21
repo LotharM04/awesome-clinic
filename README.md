@@ -13,7 +13,7 @@ React Native brings [**React**'s][r] declarative UI framework to iOS and Android
 ## Contents
 
 - [Requirements](#-requirements)
-- [Running the app](#-building-your-first-react-native-app)
+- [Running the app](#-running-the-app)
 - [License](#-license)
 
 
