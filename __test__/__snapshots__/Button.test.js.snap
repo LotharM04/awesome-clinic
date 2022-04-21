@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly 1`] = `
+<View
+  data-testid="button"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 20,
+        "elevation": 3,
+        "justifyContent": "center",
+        "marginTop": 20,
+        "paddingHorizontal": 30,
+        "paddingVertical": 10,
+      },
+      Object {
+        "backgroundColor": undefined,
+        "width": undefined,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "letterSpacing": 0.25,
+        "lineHeight": 21,
+      }
+    }
+  >
+    View
+  </Text>
+</View>
+`;
+
+exports[`renders correctly 1`] = `
+<View
+  data-testid="button"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 20,
+        "elevation": 3,
+        "justifyContent": "center",
+        "marginTop": 20,
+        "paddingHorizontal": 30,
+        "paddingVertical": 10,
+      },
+      Object {
+        "backgroundColor": undefined,
+        "width": undefined,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "letterSpacing": 0.25,
+        "lineHeight": 21,
+      }
+    }
+  >
+    View
+  </Text>
+</View>
+`;
