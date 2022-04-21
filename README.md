@@ -14,10 +14,6 @@ React Native brings [**React**'s][r] declarative UI framework to iOS and Android
 
 - [Requirements](#-requirements)
 - [Running the app](#-building-your-first-react-native-app)
-- [Documentation](#-documentation)
-- [Upgrading](#-upgrading)
-- [How to Contribute](#-how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
 - [License](#-license)
 
 
@@ -27,15 +23,16 @@ React Native apps may target iOS 11.0 and Android 5.0 (API 21) or newer. You may
 
 ## 🎉 Running the app
 
-Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started). The recommended way to install React Native depends on your project. Here you can find short guides for the most common scenarios:
+To start up the app execute following command:
 
-- [Trying out React Native][hello-world]
-- [Creating a New Application][new-app]
-- [Adding React Native to an Existing Application][existing]
+```cmd
+expo start
+```
+In order to run the test scripts, execute following command:
 
-[hello-world]: https://snack.expo.io/@hramos/hello,-world!
-[new-app]: https://reactnative.dev/docs/getting-started
-[existing]: https://reactnative.dev/docs/integration-with-existing-apps
+```cmd
+yarn test
+```
 
 ## 📄 License
 
